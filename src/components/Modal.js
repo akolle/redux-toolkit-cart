@@ -1,4 +1,4 @@
-import { closeModal } from '../features/cart/modal/modalSlice'
+import { closeModal } from '../features/modal/modalSlice'
 import { clearCart } from '../features/cart/cartSlice'
 import { useDispatch } from 'react-redux'
 
